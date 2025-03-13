@@ -1,0 +1,1 @@
+ D:\\Rashmi\\Hackathons\\MySoc\\my_soc\\.dart_tool\\flutter_build\\d818a86a210694dfd5a8259c650cc852\\native_assets.json: 
